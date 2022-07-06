@@ -1,0 +1,36 @@
+可制作的七彩草蛉(CraftablePrismaticLacewing)
+如题，解决抓不到七彩草蛉的问题
+As the topic.
+Material:
+ButterflyDust,1;SoulofLight, 15;SilverDye,7;Butterflies,1;
+The recipe enable the Empress of Light to be summon right after the Wall of Flesh being defeated.
+材料：
+蝴蝶尘x1,光明之魂x15,银色染料x7,任意蝴蝶x1
+显然，这个配方使得光之女皇在肉后马上就能被召唤，如果你对自己的技术足够自信的话。。。
+
+新增合成环境要求：处于神圣地
+New crafting environment requring:in Hallow
+
+2022/6/14
+新增金钓竿，大师诱饵，向导巫毒娃娃，松露虫，史莱姆皇后配方
+新增提炼机，生命果，蘑菇草种子，整蛊坐垫配方
+增加光明之魂与水晶碎块的转换配方，黑暗之魂与灵液，诅咒焰转换配方
+增加锯刃镐配方
+Add recipe for GoldenFishingRod.MasterBait,GuideVoodooDoll,TruffleWorm,QueenSlimeCrystal
+Recipe for Extractinator,Lifefruit,MushroomGrassSeeds,WhoopieCushion
+Recipe for the exchanging between SoulofLight and CrystalShard,SoulofNight and Ichor/CursedFlame
+Recipe for the Picksaw
+
+2022/6/15
+新增配方:泰拉棱镜，扰脑器
+New recipe for Terraprisma，BrainScrambler
+
+2022/6/23
+新增药水：终极战争药水,终极和平药水
+New potion: Ultimate Battle Potion,Ultimate Pease Potion
+以后会增加相关ui以便利调节药水开关
+UI will be designed for easy potion effect switching
+
+2022/7/2
+对tmodloader新版本适配
+fit to new version of tmodloader

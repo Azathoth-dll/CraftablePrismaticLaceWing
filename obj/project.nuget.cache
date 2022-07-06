@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKy+Nr95BMT2Espmh79hRWa6ez80PAvgjpUyTZGMQU2+EF1H59kJvpPSqW85rFKJk5958GWuJT0rTavm4sNv2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Azathoth\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CraftablePrismaticLacewing\\CraftablePrismaticLacewing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azathoth\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
